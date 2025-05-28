@@ -1,8 +1,8 @@
-# 📌 Automação Inteligente com n8n, IA e APIs
+# 📌 Análise de Dados
 
 ## 💡 Visão Geral
 
-Analisar dados de financiamentos com foco em características dos produtos, clientes e comportamento das parcelas pagas e atrasadas, utilizando visualizações gráficas para insights.
+#### Analisar dados de financiamentos com foco em características dos produtos, clientes e comportamento das parcelas pagas e atrasadas, utilizando visualizações gráficas para insights.
 ---
 
 ## 🤖 Projeto: Análise de Dados Básica
